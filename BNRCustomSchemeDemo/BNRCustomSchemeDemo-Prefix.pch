@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'BNRCustomSchemeDemo' target in the 'BNRCustomSchemeDemo' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif
